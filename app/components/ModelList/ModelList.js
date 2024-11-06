@@ -20,7 +20,7 @@ const ModelsList = ({ makeId, year }) => {
   if (error) return <p className="text-center p-4 text-red-500">{error}</p>;
 
   return (
-    <ul className="space-y-2">
+    <ul className="space-y-2 ">
       {models.map((model) => (
         <li key={model.Model_ID} className="p-2 bg-white shadow rounded">
           {model.Model_Name}
