@@ -29,9 +29,12 @@ I would also like to point out the items that have not been fulfilled. I did not
 
 
 ## Getting Started
-1. Clone the repository and go to the created folder
+1. Clone the repository
 
     git clone https://github.com/UUUIiiii/the-Car-Dealer-App
+
+2. go to the created folder
+
     cd your-project
 
 2. Install dependencies 
@@ -39,6 +42,7 @@ I would also like to point out the items that have not been fulfilled. I did not
     npm install
 
 3. Now you can run the application 
+
     npm run dev
 
 
